@@ -1,0 +1,9 @@
+server:
+  port: 8022
+
+kafka:
+  username: connect
+  password: connect-secret
+  host: 172.20.10.6:9092
+  topic: kafka-topic-mq
+  group-id: kafka-group-id-g

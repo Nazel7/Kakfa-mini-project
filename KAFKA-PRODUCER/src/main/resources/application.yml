@@ -1,0 +1,11 @@
+server:
+  port: 8099
+
+kafka:
+  username: connect
+  password: connect-secret
+  host: 172.20.10.6:9092
+  topic: kafka-topic-kmq
+  group-id: kafka-group-id-gp
+
+
